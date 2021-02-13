@@ -1,4 +1,5 @@
 ! clear; python %
-def ugonna():
-    print("The work of God")
+def ugonna(x,y):
+    return( x+y)
+   # print("The work of God")
 
